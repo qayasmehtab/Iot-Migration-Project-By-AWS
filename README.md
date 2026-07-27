@@ -117,6 +117,6 @@ flowchart LR
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
 
-**Built by Abdul Rehman Sani (Hu)** · SMIT Cloud Data Engineering
+**Built by Qayas Mehtab* · SMIT Cloud Data Engineering
 </div>
 # Iot-Migration-Project-By-AWS
